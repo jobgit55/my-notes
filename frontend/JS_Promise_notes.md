@@ -106,7 +106,7 @@ console.log('four')
 // Execution order：four two one three
 ```
 
-## #Promise.reject()
+### Promise.reject()
 Returing a Promise object with rejected state. The parameter of Promise.reject() will be used as the reason for reject and becomes the parameter of the subsequent method.
 
 
