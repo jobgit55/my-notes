@@ -249,4 +249,6 @@ function clear(keyPrefix) {
 - JSON Schemaを使用してオブジェクト構造の分析をコンパイル段階に繰り上げ、実行効率を最適化できます。
 - 名前空間の導入によって複数のモジュールの管理を強化することができます
 
-> 参照: [localForage.js](https://github.com/localForage/localForage)
+
+#　参考
+> [localForage.js](https://github.com/localForage/localForage)
